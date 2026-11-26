@@ -1,0 +1,11 @@
+# Created at 2026-11-22T17:25:08.102
+no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=158.0.4370.33)
+Build info: version: '4.51.0', revision: '35c5fab 35c5fab4a58fa5878edb255eb7747b04ca51a015'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [5cdedbc6842ebad75144a7e60bb5def4, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 158.0.4370.33, fedcm:accounts: true, goog:processID: 17112, ms:edgeOptions: {debuggerAddress: localhost:59366}, msedge: {msedgedriverVersion: 158.0.4370.33 (56b8f6918200..., userDataDir: C:\Users\ARPITHA\AppData\Lo...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59366/devtoo..., se:cdpVersion: 158.0.4370.33, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10...., webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5cdedbc6842ebad75144a7e60bb5def4
+

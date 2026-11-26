@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="2" failed="2" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Website Luanched Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Verified Homepage displayed]]>
+    </line>
+    <line>
+      <![CDATA[HoveroverOnAcc&List]]>
+    </line>
+    <line>
+      <![CDATA[Cick on sign button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Entered Emailid successfull]]>
+    </line>
+    <line>
+      <![CDATA[Cick on Continue button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Enter Password successfull]]>
+    </line>
+    <line>
+      <![CDATA[Cick on sign button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Verified login Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Verified Apply filter Search on product prize b/w range ₹1,200 - ₹2,500]]>
+    </line>
+    <line>
+      <![CDATA[Verified product titleBacca Bucci Colossus Men's Chunky All-Terrain Sneakers with Rugged Outsole & Ortholite Insole | Outdoor Trail Walking Shoes | Breathable Mesh & Synthetic Uppers]]>
+    </line>
+    <line>
+      <![CDATA[Verifird add to wishlist done]]>
+    </line>
+    <line>
+      <![CDATA[Verified quantity increased]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Proceed to Buy, checkout page opened]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Change address]]>
+    </line>
+    <line>
+      <![CDATA[Selected 2nd address]]>
+    </line>
+    <line>
+      <![CDATA[Website Luanched Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Verified Homepage displayed]]>
+    </line>
+    <line>
+      <![CDATA[HoveroverOnAcc&List]]>
+    </line>
+    <line>
+      <![CDATA[Cick on sign button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Entered Emailid successfull]]>
+    </line>
+    <line>
+      <![CDATA[Cick on Continue button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Enter Password successfull]]>
+    </line>
+    <line>
+      <![CDATA[Cick on sign button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Verified login Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Verified Apply filter Search on product prize b/w range ₹400 - ₹600]]>
+    </line>
+    <line>
+      <![CDATA[Verified product titleVEBETO Dancing Cactus Toy for Kids (1 Year Warranty) Talking Singing Children Baby Plush Electronic Toys Voice Recording Repeats What You Say LED Lights]]>
+    </line>
+    <line>
+      <![CDATA[Verifird add to wishlist done]]>
+    </line>
+    <line>
+      <![CDATA[Verified quantity increased]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Proceed to Buy, checkout page opened]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Change address]]>
+    </line>
+    <line>
+      <![CDATA[Selected 2nd address]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Deliver to this address]]>
+    </line>
+    <line>
+      <![CDATA[Control given back to homepage tab]]>
+    </line>
+    <line>
+      <![CDATA[Scrolled up to nav bar]]>
+    </line>
+    <line>
+      <![CDATA[HoveroverOnAcc&List successfull]]>
+    </line>
+    <line>
+      <![CDATA[Click on signout button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Verified signout successfully done]]>
+    </line>
+    <line>
+      <![CDATA[Website Luanched Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Verified Homepage displayed]]>
+    </line>
+    <line>
+      <![CDATA[HoveroverOnAcc&List]]>
+    </line>
+    <line>
+      <![CDATA[Cick on sign button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Entered Emailid successfull]]>
+    </line>
+    <line>
+      <![CDATA[Cick on Continue button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Enter Password successfull]]>
+    </line>
+    <line>
+      <![CDATA[Cick on sign button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Verified login Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Verified Apply filter Search on product prize b/w range ₹400 - ₹500]]>
+    </line>
+    <line>
+      <![CDATA[Verified product titleSamfor Men's Comfortable Corduroy Pants | Relaxed Fit Stretch Waist Trousers for Everyday Wear]]>
+    </line>
+    <line>
+      <![CDATA[Verifird add to wishlist done]]>
+    </line>
+    <line>
+      <![CDATA[Verified quantity increased]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Proceed to Buy, checkout page opened]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Change address]]>
+    </line>
+    <line>
+      <![CDATA[Selected 2nd address]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Deliver to this address]]>
+    </line>
+    <line>
+      <![CDATA[Control given back to homepage tab]]>
+    </line>
+    <line>
+      <![CDATA[Scrolled up to nav bar]]>
+    </line>
+    <line>
+      <![CDATA[HoveroverOnAcc&List successfull]]>
+    </line>
+    <line>
+      <![CDATA[Click on signout button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Verified signout successfully done]]>
+    </line>
+    <line>
+      <![CDATA[Website Luanched Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Verified Homepage displayed]]>
+    </line>
+    <line>
+      <![CDATA[HoveroverOnAcc&List]]>
+    </line>
+    <line>
+      <![CDATA[Cick on sign button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Entered Emailid successfull]]>
+    </line>
+    <line>
+      <![CDATA[Cick on Continue button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Enter Password successfull]]>
+    </line>
+    <line>
+      <![CDATA[Cick on sign button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Verified login Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Verified Apply filter Search on product prize b/w range ₹350 - ₹500]]>
+    </line>
+    <line>
+      <![CDATA[Verified product titleDEELMO Men’s Stylish Cotton Blend Casual Shirt || Full Sleeve Button-Down Shirt with Dual Flap Pockets || Comfortable Breathable Fabric || Perfect for Casual Office and Outing Wear]]>
+    </line>
+    <line>
+      <![CDATA[Verifird add to wishlist done]]>
+    </line>
+    <line>
+      <![CDATA[Verified quantity increased]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Proceed to Buy, checkout page opened]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Change address]]>
+    </line>
+    <line>
+      <![CDATA[Selected 2nd address]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Deliver to this address]]>
+    </line>
+    <line>
+      <![CDATA[Control given back to homepage tab]]>
+    </line>
+    <line>
+      <![CDATA[Scrolled up to nav bar]]>
+    </line>
+    <line>
+      <![CDATA[HoveroverOnAcc&List successfull]]>
+    </line>
+    <line>
+      <![CDATA[Click on signout button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Verified signout successfully done]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-11-26T17:27:12 IST" name="AmzSuite" finished-at="2026-11-26T17:37:22 IST" duration-ms="610163">
+    <groups>
+    </groups>
+    <test started-at="2026-11-26T17:27:12 IST" name="AmzTest" finished-at="2026-11-26T17:37:22 IST" duration-ms="610163">
+      <class name="TestCases.AmazonTCS__1">
+        <test-method is-config="true" signature="SelectBrowse(java.lang.String)[pri:0, instance:TestCases.AmazonTCS__1@2f4948e4]" started-at="2026-11-26T17:27:13 IST" name="SelectBrowse" finished-at="2026-11-26T17:27:16 IST" duration-ms="2955" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectBrowse -->
+        <test-method signature="AmazonEndToEnd(java.lang.String)[pri:0, instance:TestCases.AmazonTCS__1@2f4948e4]" started-at="2026-11-26T17:27:16 IST" name="AmazonEndToEnd" data-provider="SearchItems" finished-at="2026-11-26T17:28:36 IST" duration-ms="80164" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shoes]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <input data-csa-c-purchase-id="404-1219615-7462757" data-csa-c-slot-id="checkout-primary-continue-shipaddressselect" data-csa-c-type="button" data-testid="bottom-continue-button" class="a-button-input" type="submit" aria-labelledby="checkout-primary-continue-button-id-announce" data-csa-c-id="m55oqo-ln71hb-9b1tll-lqjwgq"> is not clickable at point (120, 659). Other element would receive the click: <div id="sasp-tango-non-mobile-address-book-expander" data-a-expander-name="sasp-tango-non-mobile-address-book-expander" class="a-row a-expander-container a-expander-partial-collapse-container">...</div>
+  (Session info: chrome=158.0.8127.37)
+Build info: version: '4.51.0', revision: '35c5fab 35c5fab4a58fa5878edb255eb7747b04ca51a015'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7df2a63d25a97825e90763a1f1079cb2, clickElement {id=f.3FD9FD0627A7F01759A7C3F75A8A6315.d.F4902CA52423E5CA510F55AE8883F3FD.e.4136}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 158.0.8127.37, chrome: {chromedriverVersion: 158.0.8127.88 (0cefb18236a2..., userDataDir: C:\Users\ARPITHA\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52864}, goog:processID: 33080, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52864/devtoo..., se:cdpVersion: 158.0.8127.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10...., webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (7df2a63d25a97825e90763a1f1079cb2)] -> xpath: //span[@id='checkout-primary-continue-button-id']/descendant::input]
+Session ID: 7df2a63d25a97825e90763a1f1079cb2]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input data-csa-c-purchase-id="404-1219615-7462757" data-csa-c-slot-id="checkout-primary-continue-shipaddressselect" data-csa-c-type="button" data-testid="bottom-continue-button" class="a-button-input" type="submit" aria-labelledby="checkout-primary-continue-button-id-announce" data-csa-c-id="m55oqo-ln71hb-9b1tll-lqjwgq"> is not clickable at point (120, 659). Other element would receive the click: <div id="sasp-tango-non-mobile-address-book-expander" data-a-expander-name="sasp-tango-non-mobile-address-book-expander" class="a-row a-expander-container a-expander-partial-collapse-container">...</div>
+  (Session info: chrome=158.0.8127.37)
+Build info: version: '4.51.0', revision: '35c5fab 35c5fab4a58fa5878edb255eb7747b04ca51a015'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7df2a63d25a97825e90763a1f1079cb2, clickElement {id=f.3FD9FD0627A7F01759A7C3F75A8A6315.d.F4902CA52423E5CA510F55AE8883F3FD.e.4136}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 158.0.8127.37, chrome: {chromedriverVersion: 158.0.8127.88 (0cefb18236a2..., userDataDir: C:\Users\ARPITHA\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52864}, goog:processID: 33080, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52864/devtoo..., se:cdpVersion: 158.0.8127.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10...., webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (7df2a63d25a97825e90763a1f1079cb2)] -> xpath: //span[@id='checkout-primary-continue-button-id']/descendant::input]
+Session ID: 7df2a63d25a97825e90763a1f1079cb2
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:253)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:217)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:689)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy16.click(Unknown Source)
+at Pages.CheckoutPage.clickDeliverToThisAddress(CheckoutPage.java:68)
+at TestCases.AmazonTCS__1.AmazonEndToEnd(AmazonTCS__1.java:111)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Website Luanched Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Verified Homepage displayed]]>
+            </line>
+            <line>
+              <![CDATA[HoveroverOnAcc&List]]>
+            </line>
+            <line>
+              <![CDATA[Cick on sign button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Entered Emailid successfull]]>
+            </line>
+            <line>
+              <![CDATA[Cick on Continue button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Enter Password successfull]]>
+            </line>
+            <line>
+              <![CDATA[Cick on sign button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Verified login Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Verified Apply filter Search on product prize b/w range ₹1,200 - ₹2,500]]>
+            </line>
+            <line>
+              <![CDATA[Verified product titleBacca Bucci Colossus Men's Chunky All-Terrain Sneakers with Rugged Outsole & Ortholite Insole | Outdoor Trail Walking Shoes | Breathable Mesh & Synthetic Uppers]]>
+            </line>
+            <line>
+              <![CDATA[Verifird add to wishlist done]]>
+            </line>
+            <line>
+              <![CDATA[Verified quantity increased]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Proceed to Buy, checkout page opened]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Change address]]>
+            </line>
+            <line>
+              <![CDATA[Selected 2nd address]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AmazonEndToEnd -->
+        <test-method is-config="true" signature="QuitBrowse()[pri:0, instance:TestCases.AmazonTCS__1@2f4948e4]" started-at="2026-11-26T17:28:36 IST" name="QuitBrowse" finished-at="2026-11-26T17:28:39 IST" duration-ms="3014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowse -->
+        <test-method is-config="true" signature="SelectBrowse(java.lang.String)[pri:0, instance:TestCases.AmazonTCS__1@2f4948e4]" started-at="2026-11-26T17:28:39 IST" name="SelectBrowse" finished-at="2026-11-26T17:28:40 IST" duration-ms="1049" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectBrowse -->
+        <test-method signature="AmazonEndToEnd(java.lang.String)[pri:0, instance:TestCases.AmazonTCS__1@2f4948e4]" started-at="2026-11-26T17:28:40 IST" name="AmazonEndToEnd" data-provider="SearchItems" finished-at="2026-11-26T17:30:29 IST" duration-ms="109058" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Toys]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+expected [true] but found [false]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:30)
+at TestCases.AmazonTCS__1.AmazonEndToEnd(AmazonTCS__1.java:149)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Website Luanched Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Verified Homepage displayed]]>
+            </line>
+            <line>
+              <![CDATA[HoveroverOnAcc&List]]>
+            </line>
+            <line>
+              <![CDATA[Cick on sign button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Entered Emailid successfull]]>
+            </line>
+            <line>
+              <![CDATA[Cick on Continue button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Enter Password successfull]]>
+            </line>
+            <line>
+              <![CDATA[Cick on sign button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Verified login Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Verified Apply filter Search on product prize b/w range ₹400 - ₹600]]>
+            </line>
+            <line>
+              <![CDATA[Verified product titleVEBETO Dancing Cactus Toy for Kids (1 Year Warranty) Talking Singing Children Baby Plush Electronic Toys Voice Recording Repeats What You Say LED Lights]]>
+            </line>
+            <line>
+              <![CDATA[Verifird add to wishlist done]]>
+            </line>
+            <line>
+              <![CDATA[Verified quantity increased]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Proceed to Buy, checkout page opened]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Change address]]>
+            </line>
+            <line>
+              <![CDATA[Selected 2nd address]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Deliver to this address]]>
+            </line>
+            <line>
+              <![CDATA[Control given back to homepage tab]]>
+            </line>
+            <line>
+              <![CDATA[Scrolled up to nav bar]]>
+            </line>
+            <line>
+              <![CDATA[HoveroverOnAcc&List successfull]]>
+            </line>
+            <line>
+              <![CDATA[Click on signout button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Verified signout successfully done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AmazonEndToEnd -->
+        <test-method is-config="true" signature="QuitBrowse()[pri:0, instance:TestCases.AmazonTCS__1@2f4948e4]" started-at="2026-11-26T17:30:29 IST" name="QuitBrowse" finished-at="2026-11-26T17:30:32 IST" duration-ms="3008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowse -->
+        <test-method is-config="true" signature="SelectBrowse(java.lang.String)[pri:0, instance:TestCases.AmazonTCS__1@2f4948e4]" started-at="2026-11-26T17:30:32 IST" name="SelectBrowse" finished-at="2026-11-26T17:30:42 IST" duration-ms="9503" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectBrowse -->
+        <test-method signature="AmazonEndToEnd(java.lang.String)[pri:0, instance:TestCases.AmazonTCS__1@2f4948e4]" started-at="2026-11-26T17:30:42 IST" name="AmazonEndToEnd" data-provider="SearchItems" finished-at="2026-11-26T17:33:48 IST" duration-ms="186684" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pants]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Website Luanched Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Verified Homepage displayed]]>
+            </line>
+            <line>
+              <![CDATA[HoveroverOnAcc&List]]>
+            </line>
+            <line>
+              <![CDATA[Cick on sign button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Entered Emailid successfull]]>
+            </line>
+            <line>
+              <![CDATA[Cick on Continue button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Enter Password successfull]]>
+            </line>
+            <line>
+              <![CDATA[Cick on sign button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Verified login Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Verified Apply filter Search on product prize b/w range ₹400 - ₹500]]>
+            </line>
+            <line>
+              <![CDATA[Verified product titleSamfor Men's Comfortable Corduroy Pants | Relaxed Fit Stretch Waist Trousers for Everyday Wear]]>
+            </line>
+            <line>
+              <![CDATA[Verifird add to wishlist done]]>
+            </line>
+            <line>
+              <![CDATA[Verified quantity increased]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Proceed to Buy, checkout page opened]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Change address]]>
+            </line>
+            <line>
+              <![CDATA[Selected 2nd address]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Deliver to this address]]>
+            </line>
+            <line>
+              <![CDATA[Control given back to homepage tab]]>
+            </line>
+            <line>
+              <![CDATA[Scrolled up to nav bar]]>
+            </line>
+            <line>
+              <![CDATA[HoveroverOnAcc&List successfull]]>
+            </line>
+            <line>
+              <![CDATA[Click on signout button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Verified signout successfully done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AmazonEndToEnd -->
+        <test-method is-config="true" signature="QuitBrowse()[pri:0, instance:TestCases.AmazonTCS__1@2f4948e4]" started-at="2026-11-26T17:33:48 IST" name="QuitBrowse" finished-at="2026-11-26T17:33:51 IST" duration-ms="3016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowse -->
+        <test-method is-config="true" signature="SelectBrowse(java.lang.String)[pri:0, instance:TestCases.AmazonTCS__1@2f4948e4]" started-at="2026-11-26T17:33:51 IST" name="SelectBrowse" finished-at="2026-11-26T17:33:54 IST" duration-ms="2582" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectBrowse -->
+        <test-method signature="AmazonEndToEnd(java.lang.String)[pri:0, instance:TestCases.AmazonTCS__1@2f4948e4]" started-at="2026-11-26T17:33:54 IST" name="AmazonEndToEnd" data-provider="SearchItems" finished-at="2026-11-26T17:37:19 IST" duration-ms="204910" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shirt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Website Luanched Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Verified Homepage displayed]]>
+            </line>
+            <line>
+              <![CDATA[HoveroverOnAcc&List]]>
+            </line>
+            <line>
+              <![CDATA[Cick on sign button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Entered Emailid successfull]]>
+            </line>
+            <line>
+              <![CDATA[Cick on Continue button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Enter Password successfull]]>
+            </line>
+            <line>
+              <![CDATA[Cick on sign button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Verified login Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Verified Apply filter Search on product prize b/w range ₹350 - ₹500]]>
+            </line>
+            <line>
+              <![CDATA[Verified product titleDEELMO Men’s Stylish Cotton Blend Casual Shirt || Full Sleeve Button-Down Shirt with Dual Flap Pockets || Comfortable Breathable Fabric || Perfect for Casual Office and Outing Wear]]>
+            </line>
+            <line>
+              <![CDATA[Verifird add to wishlist done]]>
+            </line>
+            <line>
+              <![CDATA[Verified quantity increased]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Proceed to Buy, checkout page opened]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Change address]]>
+            </line>
+            <line>
+              <![CDATA[Selected 2nd address]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Deliver to this address]]>
+            </line>
+            <line>
+              <![CDATA[Control given back to homepage tab]]>
+            </line>
+            <line>
+              <![CDATA[Scrolled up to nav bar]]>
+            </line>
+            <line>
+              <![CDATA[HoveroverOnAcc&List successfull]]>
+            </line>
+            <line>
+              <![CDATA[Click on signout button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Verified signout successfully done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AmazonEndToEnd -->
+        <test-method is-config="true" signature="QuitBrowse()[pri:0, instance:TestCases.AmazonTCS__1@2f4948e4]" started-at="2026-11-26T17:37:19 IST" name="QuitBrowse" finished-at="2026-11-26T17:37:22 IST" duration-ms="3010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowse -->
+      </class> <!-- TestCases.AmazonTCS__1 -->
+    </test> <!-- AmzTest -->
+  </suite> <!-- AmzSuite -->
+</testng-results>

@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite, 2 failed tests</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-AmzSuite" class="navigator-link">
+              <span class="suite-name border-failed">AmzSuite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-AmzSuite" class="navigator-link ">
+                    <span>C:\selenium\AmazonEndToEndProject\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-AmzSuite" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-AmzSuite" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-AmzSuite" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-AmzSuite" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-AmzSuite" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-AmzSuite" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">4 methods, 2 failed,   2 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-AmzSuite" class="hide-methods failed suite-AmzSuite"> (hide)</a> <!-- hide-methods failed suite-AmzSuite -->
+                      <a href="#" panel-name="suite-AmzSuite" class="show-methods failed suite-AmzSuite"> (show)</a> <!-- show-methods failed suite-AmzSuite -->
+                    </span>
+                    <div class="method-list-content failed suite-AmzSuite">
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-AmzSuite" title="TestCases.AmazonTCS__1" class="method navigator-link" hash-for-method="AmazonEndToEnd(Shoes)">AmazonEndToEnd(Shoes)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-AmzSuite" title="TestCases.AmazonTCS__1" class="method navigator-link" hash-for-method="AmazonEndToEnd(Toys)">AmazonEndToEnd(Toys)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-AmzSuite -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-AmzSuite" class="hide-methods passed suite-AmzSuite"> (hide)</a> <!-- hide-methods passed suite-AmzSuite -->
+                      <a href="#" panel-name="suite-AmzSuite" class="show-methods passed suite-AmzSuite"> (show)</a> <!-- show-methods passed suite-AmzSuite -->
+                    </span>
+                    <div class="method-list-content passed suite-AmzSuite">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-AmzSuite" title="TestCases.AmazonTCS__1" class="method navigator-link" hash-for-method="AmazonEndToEnd(pants)">AmazonEndToEnd(pants)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-AmzSuite" title="TestCases.AmazonTCS__1" class="method navigator-link" hash-for-method="AmazonEndToEnd(shirt)">AmazonEndToEnd(shirt)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-AmzSuite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-AmzSuite" class="panel AmzSuite">
+          <div class="suite-AmzSuite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">TestCases.AmazonTCS__1</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="AmazonEndToEnd(Shoes)">
+                  </a> <!-- AmazonEndToEnd(Shoes) -->
+                  <span class="method-name">AmazonEndToEnd</span>
+                  <span class="parameters">(Shoes)</span>
+                  <div class="stack-trace">org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;input data-csa-c-purchase-id=&quot;404-1219615-7462757&quot; data-csa-c-slot-id=&quot;checkout-primary-continue-shipaddressselect&quot; data-csa-c-type=&quot;button&quot; data-testid=&quot;bottom-continue-button&quot; class=&quot;a-button-input&quot; type=&quot;submit&quot; aria-labelledby=&quot;checkout-primary-continue-button-id-announce&quot; data-csa-c-id=&quot;m55oqo-ln71hb-9b1tll-lqjwgq&quot;&gt; is not clickable at point (120, 659). Other element would receive the click: &lt;div id=&quot;sasp-tango-non-mobile-address-book-expander&quot; data-a-expander-name=&quot;sasp-tango-non-mobile-address-book-expander&quot; class=&quot;a-row a-expander-container a-expander-partial-collapse-container&quot;&gt;...&lt;/div&gt;
+  (Session info: chrome=158.0.8127.37)
+Build info: version: &apos;4.51.0&apos;, revision: &apos;35c5fab 35c5fab4a58fa5878edb255eb7747b04ca51a015&apos;
+System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.11&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7df2a63d25a97825e90763a1f1079cb2, clickElement {id=f.3FD9FD0627A7F01759A7C3F75A8A6315.d.F4902CA52423E5CA510F55AE8883F3FD.e.4136}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 158.0.8127.37, chrome: {chromedriverVersion: 158.0.8127.88 (0cefb18236a2..., userDataDir: C:\Users\ARPITHA\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52864}, goog:processID: 33080, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52864/devtoo..., se:cdpVersion: 158.0.8127.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10...., webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (7df2a63d25a97825e90763a1f1079cb2)] -&gt; xpath: //span[@id=&apos;checkout-primary-continue-button-id&apos;]/descendant::input]
+Session ID: 7df2a63d25a97825e90763a1f1079cb2
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:143)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:253)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:217)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:689)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:79)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy16.click(Unknown Source)
+	at Pages.CheckoutPage.clickDeliverToThisAddress(CheckoutPage.java:68)
+	at TestCases.AmazonTCS__1.AmazonEndToEnd(AmazonTCS__1.java:111)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="AmazonEndToEnd(Toys)">
+                  </a> <!-- AmazonEndToEnd(Toys) -->
+                  <span class="method-name">AmazonEndToEnd</span>
+                  <span class="parameters">(Toys)</span>
+                  <div class="stack-trace">java.lang.AssertionError: The following asserts failed:
+	expected [true] but found [false]
+	at TestCases.AmazonTCS__1.AmazonEndToEnd(AmazonTCS__1.java:149)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 29 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-AmzSuite-class-failed -->
+          <div class="suite-AmzSuite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">TestCases.AmazonTCS__1</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="AmazonEndToEnd(pants)">
+                  </a> <!-- AmazonEndToEnd(pants) -->
+                  <span class="method-name">AmazonEndToEnd</span>
+                  <span class="parameters">(pants)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="AmazonEndToEnd(shirt)">
+                  </a> <!-- AmazonEndToEnd(shirt) -->
+                  <span class="method-name">AmazonEndToEnd</span>
+                  <span class="parameters">(shirt)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-AmzSuite-class-passed -->
+        </div> <!-- panel AmzSuite -->
+        <div panel-name="test-xml-AmzSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\selenium\AmazonEndToEndProject\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;AmzSuite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;AmzTest&quot;&gt;
+    &lt;parameter name=&quot;Browser&quot; value=&quot;Chrome&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;TestCases.AmazonTCS__1&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- AmzTest --&gt;
+&lt;/suite&gt; &lt;!-- AmzSuite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-AmzSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for AmzSuite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">AmzTest (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-AmzSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for AmzSuite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-AmzSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for AmzSuite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_AmzSuite');
+function tableData_AmzSuite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(4);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'AmazonEndToEnd')
+data.setCell(0, 2, 'TestCases.AmazonTCS__1')
+data.setCell(0, 3, 204910);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'AmazonEndToEnd')
+data.setCell(1, 2, 'TestCases.AmazonTCS__1')
+data.setCell(1, 3, 186684);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'AmazonEndToEnd')
+data.setCell(2, 2, 'TestCases.AmazonTCS__1')
+data.setCell(2, 3, 109058);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'AmazonEndToEnd')
+data.setCell(3, 2, 'TestCases.AmazonTCS__1')
+data.setCell(3, 3, 80164);
+window.suiteTableData['AmzSuite']= { tableData: data, tableDiv: 'times-div-AmzSuite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 9 minutes</span>
+              <div id="times-div-AmzSuite">
+              </div> <!-- times-div-AmzSuite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-AmzSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for AmzSuite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">AmazonEndToEnd(pants)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Website Luanched Successfully</span>
+                <span class="reporter-method-output">Verified Homepage displayed</span>
+                <span class="reporter-method-output">HoveroverOnAcc&List</span>
+                <span class="reporter-method-output">Cick on sign button successfull</span>
+                <span class="reporter-method-output">Entered Emailid successfull</span>
+                <span class="reporter-method-output">Cick on Continue button successfull</span>
+                <span class="reporter-method-output">Enter Password successfull</span>
+                <span class="reporter-method-output">Cick on sign button successfull</span>
+                <span class="reporter-method-output">Verified login Successfully</span>
+                <span class="reporter-method-output">Verified Apply filter Search on product prize b/w range ₹400 - ₹500</span>
+                <span class="reporter-method-output">Verified product titleSamfor Men's Comfortable Corduroy Pants | Relaxed Fit Stretch Waist Trousers for Everyday Wear</span>
+                <span class="reporter-method-output">Verifird add to wishlist done</span>
+                <span class="reporter-method-output">Verified quantity increased</span>
+                <span class="reporter-method-output">Clicked Proceed to Buy, checkout page opened</span>
+                <span class="reporter-method-output">Clicked Change address</span>
+                <span class="reporter-method-output">Selected 2nd address</span>
+                <span class="reporter-method-output">Clicked Deliver to this address</span>
+                <span class="reporter-method-output">Control given back to homepage tab</span>
+                <span class="reporter-method-output">Scrolled up to nav bar</span>
+                <span class="reporter-method-output">HoveroverOnAcc&List successfull</span>
+                <span class="reporter-method-output">Click on signout button successfull</span>
+                <span class="reporter-method-output">Verified signout successfully done</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">AmazonEndToEnd(shirt)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Website Luanched Successfully</span>
+                <span class="reporter-method-output">Verified Homepage displayed</span>
+                <span class="reporter-method-output">HoveroverOnAcc&List</span>
+                <span class="reporter-method-output">Cick on sign button successfull</span>
+                <span class="reporter-method-output">Entered Emailid successfull</span>
+                <span class="reporter-method-output">Cick on Continue button successfull</span>
+                <span class="reporter-method-output">Enter Password successfull</span>
+                <span class="reporter-method-output">Cick on sign button successfull</span>
+                <span class="reporter-method-output">Verified login Successfully</span>
+                <span class="reporter-method-output">Verified Apply filter Search on product prize b/w range ₹350 - ₹500</span>
+                <span class="reporter-method-output">Verified product titleDEELMO Men’s Stylish Cotton Blend Casual Shirt || Full Sleeve Button-Down Shirt with Dual Flap Pockets || Comfortable Breathable Fabric || Perfect for Casual Office and Outing Wear</span>
+                <span class="reporter-method-output">Verifird add to wishlist done</span>
+                <span class="reporter-method-output">Verified quantity increased</span>
+                <span class="reporter-method-output">Clicked Proceed to Buy, checkout page opened</span>
+                <span class="reporter-method-output">Clicked Change address</span>
+                <span class="reporter-method-output">Selected 2nd address</span>
+                <span class="reporter-method-output">Clicked Deliver to this address</span>
+                <span class="reporter-method-output">Control given back to homepage tab</span>
+                <span class="reporter-method-output">Scrolled up to nav bar</span>
+                <span class="reporter-method-output">HoveroverOnAcc&List successfull</span>
+                <span class="reporter-method-output">Click on signout button successfull</span>
+                <span class="reporter-method-output">Verified signout successfully done</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">AmazonEndToEnd(Shoes)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Website Luanched Successfully</span>
+                <span class="reporter-method-output">Verified Homepage displayed</span>
+                <span class="reporter-method-output">HoveroverOnAcc&List</span>
+                <span class="reporter-method-output">Cick on sign button successfull</span>
+                <span class="reporter-method-output">Entered Emailid successfull</span>
+                <span class="reporter-method-output">Cick on Continue button successfull</span>
+                <span class="reporter-method-output">Enter Password successfull</span>
+                <span class="reporter-method-output">Cick on sign button successfull</span>
+                <span class="reporter-method-output">Verified login Successfully</span>
+                <span class="reporter-method-output">Verified Apply filter Search on product prize b/w range ₹1,200 - ₹2,500</span>
+                <span class="reporter-method-output">Verified product titleBacca Bucci Colossus Men's Chunky All-Terrain Sneakers with Rugged Outsole & Ortholite Insole | Outdoor Trail Walking Shoes | Breathable Mesh & Synthetic Uppers</span>
+                <span class="reporter-method-output">Verifird add to wishlist done</span>
+                <span class="reporter-method-output">Verified quantity increased</span>
+                <span class="reporter-method-output">Clicked Proceed to Buy, checkout page opened</span>
+                <span class="reporter-method-output">Clicked Change address</span>
+                <span class="reporter-method-output">Selected 2nd address</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">AmazonEndToEnd(Toys)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Website Luanched Successfully</span>
+                <span class="reporter-method-output">Verified Homepage displayed</span>
+                <span class="reporter-method-output">HoveroverOnAcc&List</span>
+                <span class="reporter-method-output">Cick on sign button successfull</span>
+                <span class="reporter-method-output">Entered Emailid successfull</span>
+                <span class="reporter-method-output">Cick on Continue button successfull</span>
+                <span class="reporter-method-output">Enter Password successfull</span>
+                <span class="reporter-method-output">Cick on sign button successfull</span>
+                <span class="reporter-method-output">Verified login Successfully</span>
+                <span class="reporter-method-output">Verified Apply filter Search on product prize b/w range ₹400 - ₹600</span>
+                <span class="reporter-method-output">Verified product titleVEBETO Dancing Cactus Toy for Kids (1 Year Warranty) Talking Singing Children Baby Plush Electronic Toys Voice Recording Repeats What You Say LED Lights</span>
+                <span class="reporter-method-output">Verifird add to wishlist done</span>
+                <span class="reporter-method-output">Verified quantity increased</span>
+                <span class="reporter-method-output">Clicked Proceed to Buy, checkout page opened</span>
+                <span class="reporter-method-output">Clicked Change address</span>
+                <span class="reporter-method-output">Selected 2nd address</span>
+                <span class="reporter-method-output">Clicked Deliver to this address</span>
+                <span class="reporter-method-output">Control given back to homepage tab</span>
+                <span class="reporter-method-output">Scrolled up to nav bar</span>
+                <span class="reporter-method-output">HoveroverOnAcc&List successfull</span>
+                <span class="reporter-method-output">Click on signout button successfull</span>
+                <span class="reporter-method-output">Verified signout successfully done</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-AmzSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-AmzSuite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">TestCases.AmazonTCS__1</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">SelectBrowse(Chrome)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">AmazonEndToEnd(Shoes)</span>
+                <span class="method-start">2957 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">QuitBrowse</span>
+                <span class="method-start">83290 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">SelectBrowse(Chrome)</span>
+                <span class="method-start">86305 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">AmazonEndToEnd(Toys)</span>
+                <span class="method-start">87354 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">QuitBrowse</span>
+                <span class="method-start">196539 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">SelectBrowse(Chrome)</span>
+                <span class="method-start">199549 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">AmazonEndToEnd(pants)</span>
+                <span class="method-start">209053 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">QuitBrowse</span>
+                <span class="method-start">395884 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">SelectBrowse(Chrome)</span>
+                <span class="method-start">398901 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">AmazonEndToEnd(shirt)</span>
+                <span class="method-start">401483 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">QuitBrowse</span>
+                <span class="method-start">606560 ms</span>
+              </div> <!-- configuration-method after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>

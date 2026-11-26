@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Website Luanched Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Verified Homepage displayed]]>
+    </line>
+    <line>
+      <![CDATA[HoveroverOnAcc&List]]>
+    </line>
+    <line>
+      <![CDATA[Cick on sign button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Entered Emailid successfull]]>
+    </line>
+    <line>
+      <![CDATA[Cick on Continue button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Enter Password successfull]]>
+    </line>
+    <line>
+      <![CDATA[Cick on sign button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Verified login Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Verified Apply filter Search on product prize b/w range ₹1,300 - ₹1,900]]>
+    </line>
+    <line>
+      <![CDATA[Verified product titleadidas Men Drogo M Running Shoe]]>
+    </line>
+    <line>
+      <![CDATA[Verifird add to wishlist done]]>
+    </line>
+    <line>
+      <![CDATA[Verified quantity increased]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Proceed to Buy, checkout page opened]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Change address]]>
+    </line>
+    <line>
+      <![CDATA[Selected 2nd address]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Deliver to this address]]>
+    </line>
+    <line>
+      <![CDATA[Control given back to homepage tab]]>
+    </line>
+    <line>
+      <![CDATA[Scrolled up to nav bar]]>
+    </line>
+    <line>
+      <![CDATA[HoveroverOnAcc&List successfull]]>
+    </line>
+    <line>
+      <![CDATA[Click on signout button successfull]]>
+    </line>
+    <line>
+      <![CDATA[Verified signout successfully done]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-11-26T18:28:50 IST" name="AmzSuite" finished-at="2026-11-26T18:30:38 IST" duration-ms="108009">
+    <groups>
+    </groups>
+    <test started-at="2026-11-26T18:28:50 IST" name="AmzTest" finished-at="2026-11-26T18:30:38 IST" duration-ms="108009">
+      <class name="TestCases.AmazonTCS__1">
+        <test-method is-config="true" signature="SelectBrowse(java.lang.String)[pri:0, instance:TestCases.AmazonTCS__1@6b927fb]" started-at="2026-11-26T18:28:50 IST" name="SelectBrowse" finished-at="2026-11-26T18:28:52 IST" duration-ms="1995" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectBrowse -->
+        <test-method signature="AmazonEndToEnd()[pri:0, instance:TestCases.AmazonTCS__1@6b927fb]" started-at="2026-11-26T18:28:52 IST" name="AmazonEndToEnd" finished-at="2026-11-26T18:30:34 IST" duration-ms="102331" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Website Luanched Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Verified Homepage displayed]]>
+            </line>
+            <line>
+              <![CDATA[HoveroverOnAcc&List]]>
+            </line>
+            <line>
+              <![CDATA[Cick on sign button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Entered Emailid successfull]]>
+            </line>
+            <line>
+              <![CDATA[Cick on Continue button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Enter Password successfull]]>
+            </line>
+            <line>
+              <![CDATA[Cick on sign button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Verified login Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Verified Apply filter Search on product prize b/w range ₹1,300 - ₹1,900]]>
+            </line>
+            <line>
+              <![CDATA[Verified product titleadidas Men Drogo M Running Shoe]]>
+            </line>
+            <line>
+              <![CDATA[Verifird add to wishlist done]]>
+            </line>
+            <line>
+              <![CDATA[Verified quantity increased]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Proceed to Buy, checkout page opened]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Change address]]>
+            </line>
+            <line>
+              <![CDATA[Selected 2nd address]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Deliver to this address]]>
+            </line>
+            <line>
+              <![CDATA[Control given back to homepage tab]]>
+            </line>
+            <line>
+              <![CDATA[Scrolled up to nav bar]]>
+            </line>
+            <line>
+              <![CDATA[HoveroverOnAcc&List successfull]]>
+            </line>
+            <line>
+              <![CDATA[Click on signout button successfull]]>
+            </line>
+            <line>
+              <![CDATA[Verified signout successfully done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AmazonEndToEnd -->
+        <test-method is-config="true" signature="QuitBrowse()[pri:0, instance:TestCases.AmazonTCS__1@6b927fb]" started-at="2026-11-26T18:30:34 IST" name="QuitBrowse" finished-at="2026-11-26T18:30:38 IST" duration-ms="3487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowse -->
+      </class> <!-- TestCases.AmazonTCS__1 -->
+    </test> <!-- AmzTest -->
+  </suite> <!-- AmzSuite -->
+</testng-results>
